@@ -1,1 +1,1 @@
-# Image-classification-using-data-augmentation
+# Image-classification-with-data-augmentation
